@@ -11,3 +11,13 @@ I'm a dedicated Computer Science student with a passion for solving complex prob
 | C++ | HTML | CSS | JS | Bootstraps |
 |----------|----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="55" height="55"/>  |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="55" height="55"/>  |<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap"  width="70" height="55"/>      
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurchirag&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
