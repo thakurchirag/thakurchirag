@@ -4,7 +4,7 @@
 I'm a dedicated Computer Science student with a passion for solving complex problems through innovative software solutions. Currently pursuing my degree at ABES Engineering College, I have honed my skills in programming languages  such as C++ and basic in front-end web development such as HTML, CSS, Bootstraps, JavaScript.
 
 
-## Languages and Tools
+## Languages and Tools:
 
 
 | C++ | HTML | CSS | JS | Bootstraps |
