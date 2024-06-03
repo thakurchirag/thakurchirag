@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shiwam.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-## About Me 
+## About Me
 Hey, I'm a student in the department of Computer Science. I'm a keen learner and always ready for new tasks to challenge me. I have expertise in Python, C++, DSA, HTML ,CSS, JS . Moreover, I began my journey towards training myself as a Full Stack Web Developer with a positive mindset, I look forward for great opportunities for upscaling myself as a person.
 
 
