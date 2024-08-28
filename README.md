@@ -7,7 +7,7 @@ Hey, I'm a student in the department of Computer Science. I'm a keen learner and
 ## Languages and Tools:
 
 
-| C++ | HTML | CSS | JS | Bootstraps | C++ | HTML | CSS | JS | Bootstraps |
+| C++ | HTML | CSS | JS | Bootstraps | C++ | 
 |----------|----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="55" height="55"/>  |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="55" height="55"/>  |<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap"  width="70" height="55"/>      
 
