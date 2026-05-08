@@ -63,16 +63,24 @@ Hey, I'm passionate about Software Testing and Quality Assurance, currently work
   </tr>
 </table>
 
-  ## GitHub Testing Stats
+## Software Testing Skills
 
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurchirag&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://img.shields.io/badge/Manual%20Testing-Expert-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation%20Testing-Selenium-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=thakurchirag&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img width="320" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakurchirag&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Bug%20Reporting-JIRA-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test%20Case%20Writing-QA-important?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-SQL-red?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-Java-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-SDET-yellow?style=for-the-badge"/>
 </p>
 
 ### Connect with Me 
