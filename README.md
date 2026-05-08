@@ -7,7 +7,7 @@ Hey, I'm passionate about Software Testing and Quality Assurance, currently work
 ## Languages and Tools:
 
 
-| Manual Testing | Automation Testing | API Testing | Selenium | Postman | JIRA | Java | TypeScript | JavaScript | SQL | MongoDb | Test Case Writing | 
+| Manual Testing | Automation Testing | API Testing | Selenium | Postman | JIRA | Java | TypeScript | JavaScript | SQL | Bug Reporting | Test Case Writing | 
 |--------|--------|--------|------------|-------|-----------|------|-------------|----------|---------|---------|-----|
 
 <table>
