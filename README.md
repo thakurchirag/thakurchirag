@@ -7,7 +7,7 @@ Hey, I'm passionate about Software Testing and Quality Assurance, currently work
 ## Languages and Tools:
 
 
-| C | C++ | Python | JavaScript | HTML5 | CSS3 | Bootstrap  | Tailwind CSS | React.js | Node.js | MongoDB | SQL |
+| Manual Testing | Automation Testing | API Testing | Selenium | Postman | JIRA | Java | TypeScript | JavaScript | SQL | MongoDb | Test Case Writing | 
 |--------|--------|--------|------------|-------|-----------|------|-------------|----------|---------|---------|-----|
 
 <table>
