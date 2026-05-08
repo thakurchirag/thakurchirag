@@ -12,67 +12,54 @@ Hey, I'm passionate about Software Testing and Quality Assurance, currently work
 
 <table>
   <tr>
-
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" title="Manual Testing" alt="Manual Testing" width="55" height="55"/>
       <br>Manual Testing
     </td>
-
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" title="Automation Testing" alt="Automation Testing" width="55" height="55"/>
       <br>Automation Testing
     </td>
-
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" title="API Testing" alt="API Testing" width="55" height="55"/>
       <br>API Testing
     </td>
-
     <td align="center">
       <img src="https://www.svgrepo.com/show/354321/selenium.svg" title="Selenium" alt="Selenium" width="55" height="55"/>
       <br>Selenium
     </td>
-
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="55" height="55"/>
       <br>Postman
     </td>
-
     <td align="center">
       <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="JIRA" alt="JIRA" width="55" height="55"/>
       <br>JIRA
     </td>
-
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>
       <br>Java
     </td>
-
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/>
       <br>TypeScript
     </td>
-
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>
       <br>JavaScript
     </td>
-
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="70" height="55"/>
       <br>SQL
     </td>
-
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/1828/1828640.png" title="Bug Reporting" alt="Bug Reporting" width="55" height="55"/>
       <br>Bug Reporting
     </td>
-
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/2991/2991112.png" title="Test Case Writing" alt="Test Case Writing" width="55" height="55"/>
       <br>Test Case Writing
     </td>
-
   </tr>
 </table>
 
