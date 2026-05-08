@@ -64,14 +64,20 @@ Hey, I'm passionate about Software Testing and Quality Assurance, currently work
 </table>
 
   
+## GitHub Testing Stats
+
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurchirag&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurchirag&theme=tokyonight&hide_border=true&border_radius=10&card_width=800"/>
 </p>
 
----
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=thakurchirag&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakurchirag&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=thakurchirag&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img width="320" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakurchirag&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thakurchirag&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ### Connect with Me 
