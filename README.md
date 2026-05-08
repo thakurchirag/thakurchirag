@@ -2,7 +2,7 @@
 
 ## About Me 
 
-Hey, I'm passionate about Software Testing and Quality Assurance, currently working in the Software Testing domain and continuously improving my skills in testing practices. I am a keen learner who is always ready to take on new challenges and grow professionally. My expertise includes Manual Testing, Automation Testing, API Testing, Bug Reporting, Test Case Writing, Selenium with Java, Postman, JIRA, and SQL. Along with testing, I also have knowledge of Java, TypeScript, C++, HTML, CSS, and JavaScript. My goal is to build a strong career in Software Testing and contribute to improving software quality through effective testing practices and continuous learning.
+Hey, I'm passionate about Software Testing and Quality Assurance, currently working in the Software Testing domain and continuously improving my skills in testing practices. I am a keen learner who is always ready to take on new challenges and grow professionally. My expertise includes Manual Testing, Automation Testing, API Testing, Bug Reporting, Test Case Writing, Selenium with Java, Postman, JIRA,      and SQL. Along with testing, I also have knowledge of Java, TypeScript, C++, HTML, CSS, and JavaScript. My goal is to build a strong career in Software Testing and contribute to improving software quality through effective testing practices and continuous learning.
 
 ## Languages and Tools:
 
