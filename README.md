@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shiwam.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 ## About Me
-Hey, I'm a student in the department of Computer Science. I'm a keen learner and always ready for new tasks to challenge me. I have expertise in Python, C++, DSA, HTML ,CSS, JS . Moreover, I began my journey towards training myself as a MERN Developer with a positive mindset, I look forward for great opportunities for upscaling myself as a person.
+Hey, I'm passionate about Software Testing and Quality Assurance, currently working in the Software Testing domain and continuously improving my skills in testing practices. I am a keen learner who is always ready to take on new challenges and grow professionally. My expertise includes Manual Testing, Automation Testing, API Testing, Bug Reporting, Test Case Writing, Selenium with Java, Postman, JIRA, and SQL. Along with testing, I also have knowledge of Java, TypeScript, C++, HTML, CSS, and JavaScript. My goal is to build a strong career in Software Testing and contribute to improving software quality through effective testing practices and continuous learning.
 
 
 ## Languages and Tools:
